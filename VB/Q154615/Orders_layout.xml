@@ -1,0 +1,541 @@
+﻿<XtraSerializer version="1.0" application="DataLayoutControl">
+  <property name="#LayoutVersion" />
+  <property name="Items" iskey="true" value="15">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Size">@3,Width=713@3,Height=535</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="Padding">0, 0, 0, 0</property>
+      <property name="ExpandButtonVisible">false</property>
+      <property name="ShowTabPageCloseButton">false</property>
+      <property name="ExpandOnDoubleClick">false</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="DefaultLayoutType">Vertical</property>
+      <property name="Expanded">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="ParentName" />
+      <property name="TextVisible">false</property>
+      <property name="Name">Root</property>
+      <property name="TextLocation">Top</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="CaptionImageLocation">Default</property>
+      <property name="Visibility">Always</property>
+      <property name="ExpandButtonLocation">Default</property>
+      <property name="CaptionImageVisible">true</property>
+      <property name="TabbedGroupParentName" />
+      <property name="TypeName">LayoutGroup</property>
+      <property name="OptionsItemText" isnull="true" iskey="true">
+        <property name="TextAlignMode">UseParentOptions</property>
+        <property name="TextToControlDistance">5</property>
+      </property>
+      <property name="GroupBordersVisible">true</property>
+      <property name="CaptionImageIndex">-1</property>
+      <property name="CustomizationFormText">layoutControlGroup1</property>
+      <property name="Text">Root</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">OrderID</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">OrderID</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=711@2,Height=31</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForOrderID</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">OrderIDSpinEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">CustomerID</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">CustomerID</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=711@2,Height=31</property>
+      <property name="Location">@1,X=0@2,Y=31</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForCustomerID</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">CustomerIDTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">EmployeeID</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">EmployeeID</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=355@2,Height=31</property>
+      <property name="Location">@1,X=0@2,Y=62</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForEmployeeID</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">EmployeeIDSpinEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">OrderDate</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">OrderDate</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=711@2,Height=31</property>
+      <property name="Location">@1,X=0@2,Y=93</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForOrderDate</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">OrderDateDateEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">ShippedDate</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">ShippedDate</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=355@2,Height=31</property>
+      <property name="Location">@1,X=0@3,Y=124</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForShippedDate</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">ShippedDateDateEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">ShipVia</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">ShipVia</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=711@2,Height=31</property>
+      <property name="Location">@1,X=0@3,Y=155</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForShipVia</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">ShipViaSpinEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">ShipAddress</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">ShipAddress</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=355@2,Height=31</property>
+      <property name="Location">@1,X=0@3,Y=186</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForShipAddress</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">ShipAddressTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">ShipCity</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">ShipCity</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=711@2,Height=31</property>
+      <property name="Location">@1,X=0@3,Y=217</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForShipCity</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">ShipCityTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">ShipRegion</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">ShipRegion</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=355@2,Height=31</property>
+      <property name="Location">@1,X=0@3,Y=248</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForShipRegion</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">ShipRegionTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">ShipCountry</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">ShipCountry</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=711@3,Height=254</property>
+      <property name="Location">@1,X=0@3,Y=279</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForShipCountry</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">ShipCountryTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">Freight</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">Freight</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=356@2,Height=31</property>
+      <property name="Location">@3,X=355@2,Y=62</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForFreight</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">FreightSpinEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">RequiredDate</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">RequiredDate</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=356@2,Height=31</property>
+      <property name="Location">@3,X=355@3,Y=124</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForRequiredDate</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">RequiredDateDateEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">ShipName</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">ShipName</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=356@2,Height=31</property>
+      <property name="Location">@3,X=355@3,Y=186</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForShipName</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">ShipNameTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">ShipPostalCode</property>
+      <property name="MinSize">@3,Width=140@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">ShipPostalCode</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=74@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=356@2,Height=31</property>
+      <property name="Location">@3,X=355@3,Y=248</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForShipPostalCode</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">ShipPostalCodeTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+  </property>
+  <property name="LookAndFeel" isnull="true" iskey="true">
+    <property name="UseDefaultLookAndFeel">true</property>
+    <property name="UseWindowsXPTheme">false</property>
+    <property name="SkinName">Caramel</property>
+    <property name="Style">Skin</property>
+  </property>
+</XtraSerializer>

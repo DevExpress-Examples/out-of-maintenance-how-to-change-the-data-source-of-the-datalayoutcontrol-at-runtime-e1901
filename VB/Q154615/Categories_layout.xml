@@ -1,0 +1,191 @@
+﻿<XtraSerializer version="1.0" application="DataLayoutControl">
+  <property name="#LayoutVersion" />
+  <property name="Items" iskey="true" value="5">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Size">@3,Width=713@3,Height=535</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="Padding">0, 0, 0, 0</property>
+      <property name="ExpandButtonVisible">false</property>
+      <property name="ShowTabPageCloseButton">false</property>
+      <property name="ExpandOnDoubleClick">false</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="DefaultLayoutType">Vertical</property>
+      <property name="Expanded">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="ParentName" />
+      <property name="TextVisible">false</property>
+      <property name="Name">Root</property>
+      <property name="TextLocation">Top</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="CaptionImageLocation">Default</property>
+      <property name="Visibility">Always</property>
+      <property name="ExpandButtonLocation">Default</property>
+      <property name="CaptionImageVisible">true</property>
+      <property name="TabbedGroupParentName" />
+      <property name="TypeName">LayoutGroup</property>
+      <property name="OptionsItemText" isnull="true" iskey="true">
+        <property name="TextAlignMode">UseParentOptions</property>
+        <property name="TextToControlDistance">5</property>
+      </property>
+      <property name="GroupBordersVisible">true</property>
+      <property name="CaptionImageIndex">-1</property>
+      <property name="CustomizationFormText">layoutControlGroup1</property>
+      <property name="Text">Root</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">CategoryID</property>
+      <property name="MinSize">@3,Width=138@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">CategoryID</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=72@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=300@2,Height=31</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForCategoryID</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">CategoryIDSpinEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">CategoryName</property>
+      <property name="MinSize">@3,Width=138@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">CategoryName</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=72@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=300@2,Height=31</property>
+      <property name="Location">@1,X=0@2,Y=31</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForCategoryName</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">CategoryNameTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">Description</property>
+      <property name="MinSize">@3,Width=138@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">Description</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=72@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=300@3,Height=471</property>
+      <property name="Location">@1,X=0@2,Y=62</property>
+      <property name="MaxSize">@1,Width=0@2,Height=31</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForDescription</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">DescriptionTextEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="EnableIconToolTip">true</property>
+        <property name="IconToolTip" />
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Text">Picture</property>
+      <property name="MinSize">@3,Width=108@2,Height=31</property>
+      <property name="Padding">5, 5, 5, 5</property>
+      <property name="CustomizationFormText">Picture</property>
+      <property name="TextVisible">true</property>
+      <property name="TextSize">@2,Width=72@2,Height=20</property>
+      <property name="TextToControlDistance">5</property>
+      <property name="ParentName">Root</property>
+      <property name="Spacing">0, 0, 0, 0</property>
+      <property name="Size">@3,Width=411@3,Height=533</property>
+      <property name="Location">@3,X=300@1,Y=0</property>
+      <property name="MaxSize">@1,Width=0@1,Height=0</property>
+      <property name="TextAlignMode">UseParentOptions</property>
+      <property name="TextLocation">Left</property>
+      <property name="SizeConstraintsType">Default</property>
+      <property name="Name">ItemForPicture</property>
+      <property name="TypeName">LayoutControlItem</property>
+      <property name="ControlName">PicturePictureEdit</property>
+      <property name="Visibility">Always</property>
+      <property name="ImageToTextDistance">5</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">MiddleLeft</property>
+      <property name="Image" isnull="true" />
+    </property>
+  </property>
+  <property name="LookAndFeel" isnull="true" iskey="true">
+    <property name="UseDefaultLookAndFeel">true</property>
+    <property name="UseWindowsXPTheme">false</property>
+    <property name="SkinName">Caramel</property>
+    <property name="Style">Skin</property>
+  </property>
+</XtraSerializer>
